@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MacAddressDemo</string>
+    <string name="enter_the_ip_address_or_hostname">Enter the IP address or hostname</string>
+    <string name="check_location">Check location</string>
+    <string name="detials">Detials</string>
+</resources>
